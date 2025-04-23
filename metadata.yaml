@@ -1,0 +1,34 @@
+_repo: Shakespeare_75821
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Leinonen, Vihtori
+    gutenberg_agent_id: '58164'
+    url: http://www.gutenberg.org/2009/agents/58164
+creator:
+  author:
+    agent_name: Raleigh, Walter Alexander, Sir
+    alias: Raleigh, Sir Walter Alexander
+    birthdate: 1861
+    deathdate: 1922
+    gutenberg_agent_id: '185'
+    url: http://www.gutenberg.org/2009/agents/185
+    wikipedia: https://en.wikipedia.org/wiki/Walter_Raleigh_(professor)
+description: ''
+gutenberg_issued: '2025-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75821'
+language: fi
+pgterms:marc905: 20250406095246raleigh
+pgterms:marc906: '1908'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aPorvoo :$bWSOY, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Shakespeare
+url: http://www.gutenberg.org/ebooks/75821
